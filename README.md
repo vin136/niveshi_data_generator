@@ -12,7 +12,7 @@ a) Data Sanity still remain same, don't change underlying distribution. System k
 b) System will simulate a lot of new data so you can just concentrate on writing best RL engine
 
 #Input:<br>
-System take file bank_future_data.csv as input. The file contains last 6 month of price, volume data for 5 Banking instrument in Indian market. The Format is this:<br>
+System take file data.csv as input. The file contains historical 1 minute price, volume data for 5 Banking instrument in Indian market. The Format is this:<br>
 a) DateTime: Timestamp of the price data sent at every turn of minute in format (dd/mm/yyyy HH:MM)<br>
 b) Open: Open Price, Symbol of the stock . For instance: SBI,PNB etc + "_0"<br>
 c) High: High Price,  Symbol of the stock . For instance: SBI,PNB etc + "_1"<br>
