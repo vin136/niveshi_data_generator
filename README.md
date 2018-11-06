@@ -28,4 +28,4 @@ Ideas:<br> You can try straight forward method like change prices by -max to + m
 
 ## Random Resources <br>
 a) If you want to understand financial data: https://en.wikipedia.org/wiki/Open-high-low-close_chart. <br>
-b)https://arxiv.org/abs/1706.02633<br>
+b) https://arxiv.org/abs/1706.02633<br>
