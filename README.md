@@ -2,7 +2,7 @@
 This project is for candidate who are on later stage interview process with Niveshi. Before starting on project, few housekeeping rules:
 <br>a) Fork the repo into your account. If you make repo private, please add @rahulgoyal3004 and @deependersingla as collaborators.<br>
 b) When you submit project, email us: Github link and you approach you took.<br>
-c) We are just a call/email away if you have any guestion.
+c) We are just a call/email away if you have any question.
 <br>
 
 
@@ -24,7 +24,7 @@ This is repeated for other stocks. Hence the format is:<br><br>
 DateTime,BANKBARODA_OPEN,BANKBARODA_HIGH,BANKBARODA_LOW,BANKBARODA_CLOSE,BANKBARODA_VOLUME,CANARABANK_OPEN,CANARABANK_HIGH,CANARABANK_LOW,CANARABANK_CLOSE,CANARABANK_VOLUME,AXISBANK,AXISBANK_OPEN,AXISBANK_HIGH,AXISBANK_LOW,AXISBANK_CLOSE,AXISBANK_VOLUME,SBI_OPEN,SBI_HIGH,SBI_LOW,SBI_CLOSE,SBI_VOLUME,PNB_OPEN,PNB_HIGH,PNB_LOW,PNB_CLOSE,PNB_VOLUME
 
 
-Ideas:<br> You can try straight forward method like change prices by -max to + max for each stock or something like GAN. We will leave this on your imagination. 
+Ideas:<br> You can try straight forward methods like change prices by -max to + max for each stock or something like GAN. We will leave this to your imagination. There is no right or wrong way of doing this. What we would like to see is your reasoning behing taking the approach(es). 
 
 ## Random Resources <br>
 a) If you want to understand financial data: https://en.wikipedia.org/wiki/Open-high-low-close_chart. <br>
