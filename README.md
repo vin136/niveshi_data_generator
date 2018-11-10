@@ -1,15 +1,15 @@
 # Niveshi Data Generator
 This project is for candidate who are on later stage interview process with Niveshi. Before starting on project, few housekeeping rules:
 <br>a) Fork the repo into your account. If you make repo private, please add @rahulgoyal3004 and @deependersingla as collaborators.<br>
-b) When you submit project, email us: Github link and you approach you took.<br>
+b) When you submit project, email us: Github link and the approach you took.<br>
 c) We are just a call/email away if you have any question.
 <br>
 
 
 ## Problem Statement:
-One of the biggest problem in using Deep RL with trading is limitation of data. When you apply RL to a gaming engine you can play infinite number of episodes, in trading you just have historical data available for you to make game episodes. Niveshi Data Generator solve this problem by taking a historical data and simulate new data. It's built to keep mainly two things in mind: <br>
+One of the biggest problem in using Deep RL with trading is limitation of data. When you apply RL to a gaming engine you can play infinite number of episodes, in trading you just have historical data available for you to make game episodes. Niveshi Data Generator solve this problem by taking a historical data and simulate new data. It's built by keeping two main things in mind: <br>
 a) Data Sanity still remain same, don't change underlying distribution. System know about Garbage in and Garbage out<br>
-b) System will simulate a lot of new data so you can just concentrate on writing best RL engine
+b) System will simulate a lot of new data so you can just concentrate on writing best/fastest RL engine
 
 #Input:<br>
 System take file data.csv as input. The file contains historical 1 minute price, volume data for 5 Banking instrument in Indian market. The Format is this:<br>
